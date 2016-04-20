@@ -1,1 +1,13 @@
-style.css
+@font-face {
+	font-family: disneyfont;
+	src: url(../fonts/waltograph42.ttf);
+}
+
+#disneyEd {
+	font-family: disneyfont;
+	font-size: 80px;
+}
+
+#game {
+	letter-spacing: 5px;
+}
